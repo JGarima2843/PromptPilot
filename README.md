@@ -1,2 +1,2 @@
 # PromptPilot
-Prompt enhancer chrome extension
+Prompt Enhancer chrome extension
